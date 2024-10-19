@@ -16,15 +16,7 @@ The mean of Gr Liv Area and SalePrice was calculated.
 The coefficients of the linear regression equation (b0 for the intercept and b1 for the slope) were computed using the ordinary least squares (OLS) method.
 The linear equation was formed:
 
-𝑦
-=
-𝑏
-0
-+
-𝑏
-1
-×
-𝑥
+
 y=b0+b1×x
 where b0 = 13289.64 and b1 = 111.69.
 Model Prediction:
