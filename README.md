@@ -12,9 +12,9 @@ Feature Selection:
 For simplicity, the project predicts house prices using only the 'Gr Liv Area' as the independent variable (x) and 'SalePrice' as the dependent variable (y).
 Linear Regression Calculation:
 
-**The mean of Gr Liv Area and SalePrice was calculated.
+The mean of Gr Liv Area and SalePrice was calculated.
 The coefficients of the linear regression equation (b0 for the intercept and b1 for the slope) were computed using the ordinary least squares (OLS) method.
-The linear equation was formed:**
+The linear equation was formed:
 𝑦
 =
 𝑏
